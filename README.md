@@ -27,4 +27,4 @@ lazy val hello = project.in(file("."))
 
 ### Generate a initial ScalaFx project
 
-$ `sbt new scalafx/scalafx.g8
+$ `sbt new scalafx/scalafx.g8`
